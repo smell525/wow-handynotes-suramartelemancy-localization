@@ -23,7 +23,7 @@ if GetLocale() == "deDE" then
 	L[42487] = "Mondsichelforum"
 	L[44084] = "Zwielichtrebg\195\164rten"
 	L[42889] = "Immermondterrasse"
-	L[44740] = "Hafen von Astravar"
+	L[44740] = "Hafen der Astravar"
 	L[43808] = "Mondwachenfestung"
 	L[43809] = "Tel'anor"
 	L[43813] = "Sanktum der Ordnung"
