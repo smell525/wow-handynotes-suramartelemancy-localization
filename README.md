@@ -9,3 +9,4 @@ Currently supported languages and their contributors (curse user names if not st
 * ptBR - Portuguese (Português) @ anjadorock
 * itIT - Italian (Italiano) @ fedanto
 * esMX - Spanish/Mexican (Español) @ wMaian
+* frFR - French (Français) @ xylle (github)
