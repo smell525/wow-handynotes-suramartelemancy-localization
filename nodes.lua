@@ -73,6 +73,20 @@ elseif GetLocale() == "esMX" then
 	L[41575] = "Bastion Almavil"
 	L[4380800] = "Fuerte de Guardia Lunar (Entrada)"
 	L[4381300] = "Sagrario de la Orden (Entrada)"
+elseif GetLocale() == "frFR" then
+	L[40956] = "Ruines d’Elune’eth"
+	L[42230] = "Falanaar"
+	L[42487] = "Lune descendante"
+	L[44084] = "Vignobles du Crépuscule"
+	L[42889] = "Terrasse de Sempiterlune"
+	L[44740] = "Palais Sacrenuit"
+	L[43808] = "Garde de la Lune"
+	L[43809] = "Tel’anor"
+	L[43813] = "Sanctum de l’ordre"
+	L[43811] = "Domaine Lunastre"
+	L[41575] = "Bastion Gangrâme"
+	L[4380800] = "Garde de la Lune (Entrée)"
+	L[4381300] = "Sanctum de l’ordre (Entrée)"
 end
 
 --[[ structure:
