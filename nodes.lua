@@ -87,6 +87,20 @@ elseif GetLocale() == "frFR" then
 	L[41575] = "Bastion Gangrâme"
 	L[4380800] = "Garde de la Lune (Entrée)"
 	L[4381300] = "Sanctum de l’ordre (Entrée)"
+elseif GetLocale() == "zhCN" then
+	L[40956] = "艾露尼丝废墟"
+	L[42230] = "法兰纳尔"
+	L[42487] = "残月酒馆"
+	L[44084] = "暮光酒庄"
+	L[42889] = "永月平台"
+	L[44740] = "阿斯塔瓦港"
+	L[43808] = "护月堡垒"
+	L[43809] = "泰安诺"
+	L[43813] = "秩序大殿"
+	L[43811] = "月郡庄园"
+	L[41575] = "邪魂堡垒"
+	L[4380800] = "月之守卫 (入口)"
+	L[4381300] = "秩序大殿 (入口)"
 end
 
 --[[ structure:
