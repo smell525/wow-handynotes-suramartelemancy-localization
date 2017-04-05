@@ -10,3 +10,4 @@ Currently supported languages and their contributors (curse user names if not st
 * itIT - Italian (Italiano) @ fedanto
 * esMX - Spanish/Mexican (Español) @ wMaian
 * frFR - French (Français) @ xylle (github)
+* ruRU - Russian (русский) @ Shenzory (github)
